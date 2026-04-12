@@ -55,7 +55,9 @@ TRINETRA
 ## 👨‍💻 Contributors
 
 - Krishna Garg  
-- [Add your teammates here]
+- Shreyansh Prasad
+- Nimisha Sonare
+- Pritish Pant
 
 ---
 
