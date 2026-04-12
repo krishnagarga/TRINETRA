@@ -112,7 +112,7 @@ void loop() {
       }
     }
 
-    // PREPARE SMS MESSAGE WITH STORED GPS LOCATION
+    // Making the SMS to be send
     String mapsLink = "https://www.google.com/maps?q=" + String(storedLat, 6) + "," + String(storedLng, 6);
     
     String finalSMS = "ATTENTION: Accident Detected!\n";
